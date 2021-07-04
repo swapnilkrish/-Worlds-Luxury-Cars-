@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    background-color: blueviolet;
+    border: 20px solid;
+    border-color: chartreuse;
+}
+
+img {
+    height: 400px;
+    border: 20px solid;
+    border-color: cornflowerblue;
+}
